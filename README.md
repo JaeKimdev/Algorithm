@@ -1,2 +1,11 @@
-# programmers
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# Study Algorithm(Swift)
+This is a auto push repository for those online Judge sites
+
+## LeetCode
+https://leetcode.com/
+
+## Programmers
+https://school.programmers.co.kr/
+
+## Baekjoon
+https://www.acmicpc.net/
